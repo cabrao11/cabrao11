@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: JavaScript
 - 👯 I’m looking to collaborate on: **Beginners** projects
 - 🤔 I’m looking for help with: 
-- 📫 How to reach me: [My github][GitHub]
-  [GitHub]: https://github.com/cabrao11
+- 📫 How to reach me: [My github](https://github.com/cabrao11)
+  
