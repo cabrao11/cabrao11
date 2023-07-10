@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning: JavaScript
-- 👯 I’m looking to collaborate on: Everything for beginners
+- 👯 I’m looking to collaborate on: Everything for *beginners*
 - 🤔 I’m looking for help with: Learning how to code
