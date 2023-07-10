@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on: Learning how to code
 - 🌱 I’m currently learning: JavaScript
-- 👯 I’m looking to collaborate on: Everything for **beginners**
-- 🤔 I’m looking for help with: Learning how to code
--  📫 How to reach me: [At my github](https://github.com/cabrao11)
+- 👯 I’m looking to collaborate on: **Beginners** projects
+- 🤔 I’m looking for help with: 
+- 📫 How to reach me: [My github][GitHub]
+[GitHub](https://github.com/cabrao11)
