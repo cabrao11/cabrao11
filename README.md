@@ -1,4 +1,10 @@
-### Hi there 👋 , I'm Carlos Abrao
+Hey there! I'm Carlos Abrao, and I'm thrilled to be here. 👋 Currently, I'm diving headfirst into the world of coding, eager to learn and explore the possibilities it offers. Right now, I'm focused on mastering JavaScript, and I can't wait to see how I can use it to bring my ideas to life.
+
+I'm all about collaboration, and I'd love to team up with fellow beginners on exciting projects. Together, we can learn, grow, and create something awesome. If there's anything I need help with along the way, I know I can count on this amazing community.
+
+You can find me on GitHub, where I'm documenting my coding journey and sharing my projects. I'm eager to connect with others who share my passion for coding, so feel free to reach out and let's collaborate!
+
+I'm stoked to be a part of this community, and I can't wait to see what we can achieve together. Here's to an incredible coding adventure! 🚀
 
 <!--
 **cabrao11/cabrao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [GitHub]: https://github.com/cabrao11
 -->
-- 🔭 I’m currently working on: Learning how to code
-- 🌱 I’m currently learning: JavaScript
-- 👯 I’m looking to collaborate on: **Beginners** projects
-- 🤔 I’m looking for help with: 
-- 📫 How to reach me: [My github](https://github.com/cabrao11)
-  
